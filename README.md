@@ -1,25 +1,31 @@
 # Luís Guilherme 👋
 
 ### Hi, I am Luís, welcome to my GitHub
-I am passionate about technologies and games, although focused on software for desktops, moving towards the web world.
+I'm passionate about technologies and games, focused on DotNet, and learning more and more
 <br>
 
 ## Technologies
 
 <div text-align="justify">
-  <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt="C#/DotNet" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img alt="Delphi" src="https://img.shields.io/badge/delphi-%23DC322F.svg?&style=for-the-badge&logo=delphi&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 </div>
 
+## Currently Learning
+- DDD for DotNet
+- TDD for DotNet
+- Clean Architecture
+- People Management
+
 <br>
 
-- I’m currently learning React.Js and React Native, Node.js and Next.js
-- I'm use in my work Delphi, C# and MSSQL
-- Ask me about C# and Delphi for desktop softwares
-- I'm love indie games, I'm currently playing Graveyard Keeper
+- Currently fully focused on improving my knowledge of DotNet
+- I'm use in my work DotNet and Oracle
+- Ask me about DotNet for desktop softwares or backend applications
+- I'm love indie games, I'm currently playing Assassin's Creed Valhalla with GeForce Now
 
 <br>
 
