@@ -25,7 +25,6 @@ I'm passionate about technologies and games, focused on DotNet, and learning mor
 - Currently fully focused on improving my knowledge of DotNet
 - I'm use in my work DotNet and Oracle
 - Ask me about DotNet for desktop softwares or backend applications
-- I'm love indie games, I'm currently playing Assassin's Creed Valhalla with GeForce Now
 
 <br>
 
