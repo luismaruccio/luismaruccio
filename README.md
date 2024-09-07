@@ -13,13 +13,6 @@ I'm passionate about technologies and games, focused on DotNet, and learning mor
   <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 </div>
 
-- Currently fully focused on improving my knowledge of DotNet
-- I'm use in my work DotNet and Oracle
-- Ask me about DotNet for desktop softwares or backend applications
-
-<br>
-
-
 ## Social
   [![Instagram Badge](https://img.shields.io/badge/luis.maruccio%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/luis.maruccio/)
   [![Twitch Badge](https://img.shields.io/badge/SpaceMarujo%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/spacemarujo)
